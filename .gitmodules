@@ -1,0 +1,3 @@
+[submodule "pocketsphinx.js"]
+	path = pocketsphinx.js
+	url = git@github.com:syl22-00/pocketsphinx.js.git
